@@ -1,0 +1,6 @@
+github.com/chinmaykulkarnee/go-submodules v0.0.0-20211109141753-78d08b77573a h1:aWk9RV5FkvZFVDgqCWkx5oho6NdKiDsMky3J55kh2h0=
+github.com/chinmaykulkarnee/go-submodules/b v0.1.1 h1:UKJJ1iMPYxSPuzRXLfn0W5tYQv4QO4oWQpIhBqYTZ2I=
+github.com/chinmaykulkarnee/go-submodules/b v0.1.1/go.mod h1:jscTIZTjo3+2cZNAQdpv/6lnlz9Qy/7cNELC/mZLd8Y=
+github.com/go-modules-by-example/submodules v0.0.0-20190513150929-56ad34e87f33 h1:vITorjgQkNDS8g5isduzK0aIfeOh1RcA0w8GUnwJKxc=
+github.com/go-modules-by-example/submodules/b v0.1.1 h1:dTc7yu2321+YVvzyRm2kyfD51+VWJeEgxGBD9jw7jDQ=
+github.com/go-modules-by-example/submodules/b v0.1.1/go.mod h1:Ard/KqAeWjGGII6CPAlXznV11G3OcnBptJJK6S4ck4k=
